@@ -22,4 +22,4 @@ This project is an Excel dashboard built to analyze cryptocurrency market data.
 - Slicers & Timeline
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard_preview.png.png)
